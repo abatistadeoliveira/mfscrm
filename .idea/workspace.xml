@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc0d36a4-677a-4206-8e7e-d5d9e6d447dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/crm/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crm/templates/crm/summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/crm/templates/crm/summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crm/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/crm/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crm/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/crm/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mfscrm/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mfscrm/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,7 +112,7 @@
       <workItem from="1571421276613" duration="15320000" />
       <workItem from="1571681108210" duration="3550000" />
       <workItem from="1572285813883" duration="189000" />
-      <workItem from="1573672390290" duration="6926000" />
+      <workItem from="1573672390290" duration="7773000" />
     </task>
     <servers />
   </component>
