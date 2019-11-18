@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'mathfilters',
     'django.contrib.humanize',
     'taggit',
+    'rest_framework',
 
 ]
 
